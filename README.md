@@ -1,2 +1,2 @@
 # contactpage
-A contact page for websites.
+A contact page for websites
